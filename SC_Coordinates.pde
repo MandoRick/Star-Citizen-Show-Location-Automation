@@ -1,3 +1,4 @@
+//you can open and run this scrip with Processing Java.  You can also export it as an exe in Processing.  Visit processing.org
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.awt.datatransfer.*;
