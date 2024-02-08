@@ -191,7 +191,7 @@ void saveData() {
     PrintWriter writer = new PrintWriter(fileWriter);
 
     // Write data to the file
-    writer.println("Name: " + name + ", Coordinates: " + coordinates);
+    writer.println(name + ": " + coordinates);
     writer.close();
     println("Data saved successfully.");
 
